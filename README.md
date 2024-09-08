@@ -21,7 +21,7 @@ This repository contains an Excel-based data analysis and visualization project 
 6. **Orders by Channels**: Shows the distribution of orders across different online eCommerce platforms used by customers (e.g., Amazon, Meesho, Flipkart etc..), indicating which platforms are most popular.
 
 ## Insights about Vrinda store dataset:
--Women are more likely to buy compared to men.
--Maharashtra, Karnataka, Uttar Pradesh are the top 3 states.
--Age group between 30-50 is contributing more.
+-Women are more likely to buy compared to men.<br>
+-Maharashtra, Karnataka, Uttar Pradesh are the top 3 states.<br>
+-Age group between 30-50 is contributing more.<br>
 -Amazon, Flipkart and Myntra are the top contributers.
