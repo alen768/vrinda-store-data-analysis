@@ -3,8 +3,8 @@
 This repository contains an Excel-based data analysis and visualization project for **Vrinda Store**. The analysis includes comprehensive visualizations to track and understand various metrics related to store performance.
 
 ## Files Included:
-- **Vrinda_Store_Data_Analysis(Full_Workbook).xlsx**: This file contains all data, intermediate analysis, and visualizations across multiple sheets.
-- **Vrinda_Store(FinalDashboard).xlsx**: This is a condensed dashboard with key visualizations and insights, providing a high-level summary of the analysis.
+- [vrinda-store-data-analysis](Vrinda_Store_Data_Analysis(Full_Workbook).xlsx): This file contains all data, intermediate analysis, and visualizations across multiple sheets.
+- [vrinda-store-data-analysis](Vrinda_Store(FinalDashboard).xlsx): This is a condensed dashboard with key visualizations and insights, providing a high-level summary of the analysis.
 
 ## Visualizations Included:
 
